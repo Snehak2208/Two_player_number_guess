@@ -90,7 +90,7 @@ You can run multiple clients (in different terminals) to simulate multiple conne
 <img src="./screenshots/Picture1.png" alt="App Screenshot 1"/>
 <img src="./screenshots/Picture2.png" alt="App Screenshot 2"/>
 <img src="./screenshots/Picture3.png" alt="App Screenshot 3"/>
-#When none of the players has guessed the correct number:
+When none of the players has guessed the correct number:
 <img src="./screenshots/Picture4.png" alt="App Screenshot 4"/>
 
 
