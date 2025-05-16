@@ -7,6 +7,8 @@ The project allows:
 - A server to listen for client connections
 - A client to connect to the server and exchange messages
 - Basic message passing between client and server via terminal
+- Program flow:
+<img src="./screenshots/game1_flow.jpg" alt="ss 1"/>
 
 ## 🧠 Key Concepts Used
 - Socket programming (TCP)
